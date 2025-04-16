@@ -1,0 +1,3 @@
+Fly = left click of mouse OR space bar
+Pause = p
+Resume = p
